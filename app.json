@@ -1,0 +1,29 @@
+{
+  "id": "e6952253-176b-4949-a0f0-85fd60b6ed4a",
+  "name": "PSI – Sales Specfic",
+  "publisher": "PRODWARE",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 60000,
+      "to": 60149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://PSI–SalesSpecfic.com/help/",
+  "showMyCode": true,
+  "features": ["TranslationFile", "GenerateCaptions"],
+  "supportedLocales": ["en-US", "fr-FR"],  
+  "runtime": "6.0",
+  "target": "OnPrem"
+}

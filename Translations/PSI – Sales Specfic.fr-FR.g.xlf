@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fr-FR" original="PSI – Sales Specfic">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 1023907396 - Method 2087313312 - NamedType 2344539320" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You may have changed a Salesperson Code.\\Do you want to update the lines?</source>
+          <note from="Developer" annotates="general" priority="2">FRA="Vous avez probablement modifié un code vendeur.\\Souhaitez-vous mettre à jour les lignes ?"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PSI Event Mgt - Method OnAfterValidate_SalespersonCode - NamedType Text0001</note>
+          <target>Vous avez probablement modifié un code vendeur.\\Souhaitez-vous mettre à jour les lignes ?</target>
+        </trans-unit>
+        <trans-unit id="Codeunit 2631200743 - Method 3818156168" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FctOnAfterSetFieldsBilltoCustomer_T36</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PSI Functions Mgt - Method FctOnAfterSetFieldsBilltoCustomer_T36</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2631200743 - Method 1296641852" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FctOnAfterPost_SalesPostYesNo</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PSI Functions Mgt - Method FctOnAfterPost_SalesPostYesNo</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2631200743 - Method 3825666221" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GetSalesLines</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PSI Functions Mgt - Method GetSalesLines</note>
+        </trans-unit>
+        <trans-unit id="Page 3940676077 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get Sales Lines</source>
+          <note from="Developer" annotates="general" priority="2">FRA="Extraire ligne de vente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Get Sales Lines - Property Caption</note>
+          <target>Extraire ligne de vente</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 2059498434 - Action 4085863405 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 225830225">
+          <source>Get Sales Lines</source>
+          <note from="Developer" annotates="general" priority="2">FRA="Extraire ligne de vente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TransferOrderSubformExt - Action GetSalesLines - Property Caption</note>
+          <target>Extraire ligne de vente</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3422919386 - Field 2462203486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3118382297">
+          <source>Salesperson Code 2</source>
+          <note from="Developer" annotates="general" priority="2">FRA="Code vendeur 2"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesShipmentHeaderExt - Field Salesperson Code 2 - Property Caption</note>
+          <target>Code vendeur 2</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 1814909561 - Field 553464652 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978">
+          <source>Salesperson Code</source>
+          <note from="Developer" annotates="general" priority="2">FRA="Code vendeur"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesShipmentLineExt - Field Salesperson Code - Property Caption</note>
+          <target>Code vendeur</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 1814909561 - Field 2462203486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978">
+          <source>Salesperson Code 2</source>
+          <note from="Developer" annotates="general" priority="2">FRA="Code vendeur 2"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesShipmentLineExt - Field Salesperson Code 2 - Property Caption</note>
+          <target>Code vendeur 2</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 433817161 - Field 2462203486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 809936682">
+          <source>Salesperson Code 2</source>
+          <note from="Developer" annotates="general" priority="2">FRA="Code vendeur 2"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesInvoiceHeaderExt - Field Salesperson Code 2 - Property Caption</note>
+          <target>Code vendeur 2</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 76525642 - Field 553464652 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>Salesperson Code</source>
+          <note from="Developer" annotates="general" priority="2">FRA="Code vendeur"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesInvoiceLineExt - Field Salesperson Code - Property Caption</note>
+          <target>Code vendeur</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 76525642 - Field 2462203486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>Salesperson Code 2</source>
+          <note from="Developer" annotates="general" priority="2">FRA="Code vendeur 2"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesInvoiceLineExt - Field Salesperson Code 2 - Property Caption</note>
+          <target>Code vendeur 2</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 2285591471 - Field 2462203486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 552782286">
+          <source>Salesperson Code 2</source>
+          <note from="Developer" annotates="general" priority="2">FRA="Code vendeur 2"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesCrMemoHeaderExt - Field Salesperson Code 2 - Property Caption</note>
+          <target>Code vendeur 2</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 2926522096 - Field 553464652 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3059602325">
+          <source>Salesperson Code</source>
+          <note from="Developer" annotates="general" priority="2">FRA="Code vendeur"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesCrMemoLineExt - Field Salesperson Code - Property Caption</note>
+          <target>Code vendeur</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 2926522096 - Field 2462203486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3059602325">
+          <source>Salesperson Code 2</source>
+          <note from="Developer" annotates="general" priority="2">FRA="Code vendeur 2"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesCrMemoLineExt - Field Salesperson Code 2 - Property Caption</note>
+          <target>Code vendeur 2</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 1713901351 - Field 2462203486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Salesperson Code 2</source>
+          <note from="Developer" annotates="general" priority="2">FRA="Code vendeur 2"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerExt - Field Salesperson Code 2 - Property Caption</note>
+          <target>Code vendeur 2</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 795672338 - Field 3714176200 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Shipment Status</source>
+          <note from="Developer" annotates="general" priority="2">FRA="Statut livraison"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesHeaderExt - Field Shipment Status - Property Caption</note>
+          <target>Statut livraison</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 795672338 - Field 3714176200 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Undelivred,Partial,Total</source>
+          <note from="Developer" annotates="general" priority="2">FRA="Non livré,Partiel,Total"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesHeaderExt - Field Shipment Status - Property OptionCaption</note>
+          <target>Non livré,Partiel,Total</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 795672338 - Field 2462203486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Salesperson Code 2</source>
+          <note from="Developer" annotates="general" priority="2">FRA="Code vendeur 2"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesHeaderExt - Field Salesperson Code 2 - Property Caption</note>
+          <target>Code vendeur 2</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 795672338 - NamedType 2344539320" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>You may have changed a Salesperson Code.\\Do you want to update the lines?</source>
+          <note from="Developer" annotates="general" priority="2">FRA="Vous avez probablement modifié un code vendeur.\\Souhaitez-vous mettre à jour les lignes ?"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesHeaderExt - NamedType Text0001</note>
+          <target>Vous avez probablement modifié un code vendeur.\\Souhaitez-vous mettre à jour les lignes ?</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3461155121 - Field 553464652 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Salesperson Code</source>
+          <note from="Developer" annotates="general" priority="2">FRA="Code vendeur"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesLineExt - Field Salesperson Code - Property Caption</note>
+          <target>Code vendeur</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3461155121 - Field 2462203486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Salesperson Code 2</source>
+          <note from="Developer" annotates="general" priority="2">FRA="Code vendeur 2"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesLineExt - Field Salesperson Code 2 - Property Caption</note>
+          <target>Code vendeur 2</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 2158112000 - Field 2462203486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1948788855">
+          <source>Salesperson Code 2</source>
+          <note from="Developer" annotates="general" priority="2">FRA="Code vendeur 2"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesHeaderArchiveExt - Field Salesperson Code 2 - Property Caption</note>
+          <target>Code vendeur 2</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 1674156279 - Field 553464652 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224">
+          <source>Salesperson Code</source>
+          <note from="Developer" annotates="general" priority="2">FRA="Code vendeur"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesLineArchiveExt - Field Salesperson Code - Property Caption</note>
+          <target>Code vendeur</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 1674156279 - Field 2462203486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224">
+          <source>Salesperson Code 2</source>
+          <note from="Developer" annotates="general" priority="2">FRA="Code vendeur 2"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesLineArchiveExt - Field Salesperson Code 2 - Property Caption</note>
+          <target>Code vendeur 2</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 2869473788 - Field 2462203486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2925931323">
+          <source>Salesperson Code 2</source>
+          <note from="Developer" annotates="general" priority="2">FRA="Code vendeur 2"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ReturnReceiptHeaderExt - Field Salesperson Code 2 - Property Caption</note>
+          <target>Code vendeur 2</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3646257435 - Field 553464652 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1173465396">
+          <source>Salesperson Code</source>
+          <note from="Developer" annotates="general" priority="2">FRA="Code vendeur"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ReturnReceiptLineExt - Field Salesperson Code - Property Caption</note>
+          <target>Code vendeur</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 3646257435 - Field 2462203486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1173465396">
+          <source>Salesperson Code 2</source>
+          <note from="Developer" annotates="general" priority="2">FRA="Code vendeur 2"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ReturnReceiptLineExt - Field Salesperson Code 2 - Property Caption</note>
+          <target>Code vendeur 2</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
