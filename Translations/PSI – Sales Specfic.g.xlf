@@ -98,7 +98,7 @@
           <note from="Developer" annotates="general" priority="2">FRA="Code vendeur 2"</note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesHeaderExt - Field Salesperson Code 2 - Property Caption</note>
         </trans-unit>
-        <trans-unit id="TableExtension 795672338 - NamedType 2344539320" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+        <trans-unit id="TableExtension 795672338 - NamedType 2344539320" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 795672338">
           <source>You may have changed a Salesperson Code.\\Do you want to update the lines?</source>
           <note from="Developer" annotates="general" priority="2">FRA="Vous avez probablement modifié un code vendeur.\\Souhaitez-vous mettre à jour les lignes ?"</note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesHeaderExt - NamedType Text0001</note>

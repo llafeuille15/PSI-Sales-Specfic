@@ -37,7 +37,7 @@ codeunit 60001 "PSI Functions Mgt"
             RecLSalesLine.SETRANGE("Document Type", SalesHeader."Document Type");
             RecLSalesLine.SETRANGE("Document No.", SalesHeader."No.");
             RecLSalesLine.SETRANGE(Type, RecLSalesLine.Type::Item);
-            RecLSalesLine.SETRANGE("Drop Shipment", FALSE);
+            RecLSalesLine.SETRANGE("Drop Shipment", true);
             IF NOT RecLSalesLine.ISEMPTY THEN BEGIN
                 RecLSalesLine.FINDSET;
                 REPEAT
@@ -54,7 +54,7 @@ codeunit 60001 "PSI Functions Mgt"
                         IF DecLTotalQuantity = DecLTotalQuantityShipped THEN
                             SalesHeader."Shipment Status" := SalesHeader."Shipment Status"::Total;
 
-                SalesHeader.MODIFY(TRUE);
+                SalesHeader.MODIFY;
             END;
         END;
     end;

@@ -62,6 +62,21 @@ codeunit 60000 "PSI Event Mgt"
         CduGPSIFunctionsMgt.FctOnAfterPost_SalesPostYesNo(SalesHeader);
     end;
 
+    local procedure "---Cdu90---"()
+    begin
+    end;
+
+    [EventSubscriber(ObjectType::codeunit, 90, 'OnAfterPostPurchaseDocDropShipment', '', false, false)]
+    local procedure OnAfterPostPurchaseDocDropShipment_Cdu90(SalesShptNo: Code[20])
+    var
+        SalesHeader: Record "Sales Header";
+        SalesShptHeader: Record "Sales Shipment Header";
+    begin
+        if SalesShptHeader.get(SalesShptNo) then
+            if SalesHeader.get(SalesHeader."Document Type"::Order, SalesShptHeader."Order No.") then
+                CduGPSIFunctionsMgt.FctOnAfterPost_SalesPostYesNo(SalesHeader);
+    end;
+
     local procedure "---Cdu5763---"()
     begin
     end;
